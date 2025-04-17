@@ -3,7 +3,7 @@
   "name": "Discord Token Login",
   "version": "1.0.0",
   "description": "Log in to Discord using a token, without modifying discord.com's localStorage. Fully open-source.",
-  "permissions": ["scripting", "tabs"],
+  "permissions": ["tabs"],
   "host_permissions": ["https://discord.com/*"],
   "action": {
     "default_popup": "popup.html",
