@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Discord Token Login",
+  "version": "1.0.0",
+  "description": "Log in to Discord using a token, without modifying discord.com's localStorage. Fully open-source.",
+  "permissions": ["scripting", "tabs"],
+  "host_permissions": ["https://discord.com/*"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "128": "icons/2/128.png",
+      "64": "icons/2/64.png",
+      "32": "icons/2/32.png"
+    }
+  },
+  "icons": {
+    "128": "icons/1/128.png",
+    "64": "icons/1/64.png",
+    "32": "icons/1/32.png"
+  }
+}
