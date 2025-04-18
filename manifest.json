@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "description": "Log in to Discord using a token, without modifying discord.com's localStorage. Fully open-source.",
   "author": "Sefinek",
+  "homepage_url": "https://github.com/sefinek/discord-token-login",
   "permissions": ["tabs"],
   "host_permissions": ["https://discord.com/*"],
   "action": {
